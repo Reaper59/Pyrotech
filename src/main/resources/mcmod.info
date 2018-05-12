@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pyrotech",
+  "name": "Pyrotech",
+  "description": "A mod about Fire! May contain items",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Reaper59"],
+  "credits": "The Nether! And Minecraft's... interesting physics",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
